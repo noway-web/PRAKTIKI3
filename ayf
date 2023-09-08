@@ -1,0 +1,18 @@
+| Методы / Классы оболочек | Boolean | Byte | Character | Double | Float | Integer | Long | Short |
+|--------------------------|---------|------|-----------|--------|-------|---------|------|-------|
+| byteValue                |         |  x   |           |   x    |   x   |    x    |  x   |   x   |
+| doubleValue              |    x    |      |           |   x    |   x   |         |      |       |
+| floatValue               |    x    |      |           |   x    |   x   |         |      |       |
+| intValue                 |    x    |      |           |   x    |   x   |    x    |  x   |   x   |
+| longValue                |    x    |      |           |   x    |   x   |    x    |  x   |   x   |
+| shortValue               |    x    |  x   |           |   x    |   x   |    x    |  x   |       |
+| parseXxx                 |         |      |           |   x    |       |         |      |       |
+| parseXxx with radix      |         |      |           |   x    |       |         |      |       |
+| valueOf with radix       |         |      |           |   x    |       |         |      |       |
+| toString                 |         |      |           |   x    |       |         |      |       |
+| toString(primitive)      |         |      |           |   x    |       |         |      |       |
+| toString(primitive,radix)|         |      |           |   x    |       |         |      |       |
+
+
+
+
